@@ -1,2 +1,2 @@
-# curso_dio
+# Bootcamp Dio
 Conteúdo Santander Bootcamp Fullstack Developer
